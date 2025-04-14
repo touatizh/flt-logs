@@ -1,0 +1,20 @@
+# Ignore temporary Excel/OnlyOffice lock files
+~$*.xls*
+*.bak
+*.tmp
+*.temp
+*.log
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# VS Code settings (if you open the folder in VS Code)
+.vscode/
+
+# OS-specific trash
+.Trash-*/
+
